@@ -1,0 +1,4 @@
+1)Getting the input from the user
+2)printing by inviting the guest
+3)removing the guest who can not show up
+4)replacing the guest with the guest who all r coming 

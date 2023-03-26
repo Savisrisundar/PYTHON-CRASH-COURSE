@@ -1,0 +1,2 @@
+used d.values()
+to print the values alone

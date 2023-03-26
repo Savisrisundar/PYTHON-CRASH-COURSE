@@ -1,0 +1,4 @@
+1)Using a variable to represent a person's name
+2)Printing in lowercase
+3)Printing in uppercase
+4)Printing in title format

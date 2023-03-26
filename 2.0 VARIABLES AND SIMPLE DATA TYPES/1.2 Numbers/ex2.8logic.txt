@@ -1,0 +1,4 @@
+1)printing(5+3) which gives 8
+2)printing(9-1) which gives 8
+3)printing(4*2) which gives 8 
+4)printing(int(16/2)) which gives 8(here giving int() because divisio gives decimal values)

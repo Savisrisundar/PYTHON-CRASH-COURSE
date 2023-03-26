@@ -1,0 +1,2 @@
+1)assigning a message to a variable
+2)printing the message

@@ -1,0 +1,1 @@
+1)using len function checking whether the given list is empty or not

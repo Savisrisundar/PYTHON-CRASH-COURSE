@@ -1,0 +1,4 @@
+1)first giving l1=l2
+2)whatever we append it gets added to both the list
+3)secondly giving l1=l2[:]
+4)whatever we add to which list tht only gets added

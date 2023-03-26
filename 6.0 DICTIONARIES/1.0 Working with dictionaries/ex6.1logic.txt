@@ -1,0 +1,3 @@
+1)created a dictionary
+used split function 
+and added the value

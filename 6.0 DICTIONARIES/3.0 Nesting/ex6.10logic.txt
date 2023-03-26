@@ -1,0 +1,2 @@
+assigning multiple values to keys 
+and printing it in order

@@ -1,0 +1,4 @@
+1)printing in original order
+2)printing in alphabetical order
+3)printing in reverse 
+4)printing again in reverse

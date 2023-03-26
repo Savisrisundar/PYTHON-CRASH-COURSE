@@ -1,0 +1,4 @@
+1)Assigning a name to a variable
+2)printing(strip)-removes both the whitespaces
+3)printing(lstrip)-removes whitespaces in the left
+4)printing(rstrip)-removes the whitespaces in the right

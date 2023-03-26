@@ -1,0 +1,2 @@
+1)checking whether 2 given values r same 
+2)if yes printing true else false

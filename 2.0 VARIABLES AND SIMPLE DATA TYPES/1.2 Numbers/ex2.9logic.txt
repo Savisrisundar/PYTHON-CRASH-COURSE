@@ -1,0 +1,2 @@
+1)Getting the input from the user
+2)Printing that favourite no

@@ -1,0 +1,1 @@
+1) finding the given age is coming under which category and printing the statement according to the given condition

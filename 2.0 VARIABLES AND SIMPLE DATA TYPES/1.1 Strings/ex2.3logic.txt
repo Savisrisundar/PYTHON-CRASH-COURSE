@@ -1,0 +1,2 @@
+1)Using a variable to represent a person's name
+2)Printing a message to that person

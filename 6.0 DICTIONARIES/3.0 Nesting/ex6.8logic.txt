@@ -1,0 +1,2 @@
+adding the dic in list
+printing it accordingly

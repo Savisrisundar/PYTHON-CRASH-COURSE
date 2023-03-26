@@ -1,0 +1,4 @@
+1)if the color is red 
+2)print the player points is 5
+3)else
+4)print the points are 10

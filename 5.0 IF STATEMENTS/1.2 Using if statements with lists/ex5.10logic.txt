@@ -1,0 +1,4 @@
+1) with one list i am checking whether any elements are matching with the other one
+used 2 for loops  
+break after each if and elif
+finally used i.upper()

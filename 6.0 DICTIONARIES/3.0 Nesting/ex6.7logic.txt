@@ -1,0 +1,2 @@
+first creating 3 dictionaries 
+and then adding it to a single dictionary keeping the dic as a value and person no as key

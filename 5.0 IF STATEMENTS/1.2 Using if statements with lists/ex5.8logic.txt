@@ -1,0 +1,1 @@
+1)using for loop   printing statements with each word in the list

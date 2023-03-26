@@ -1,0 +1,2 @@
+1)Getting the input in the form of list using input().split()
+2)printing it with a message 

@@ -1,0 +1,2 @@
+1)Representing a famous person with a variable called famous_quote
+2)Print the message by representing it with the same variable

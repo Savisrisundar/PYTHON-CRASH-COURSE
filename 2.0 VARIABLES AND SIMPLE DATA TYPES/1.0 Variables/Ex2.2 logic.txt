@@ -1,0 +1,4 @@
+1)assigning a message to a variable
+2)printing that message
+3)assigning a new message to a variable
+4)printing the new message

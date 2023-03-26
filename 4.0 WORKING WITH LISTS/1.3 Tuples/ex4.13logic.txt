@@ -1,0 +1,4 @@
+1)creating a tuple
+2)printing it
+3)trying to modify the tuple(not possible)
+4)adding elements in a tuple

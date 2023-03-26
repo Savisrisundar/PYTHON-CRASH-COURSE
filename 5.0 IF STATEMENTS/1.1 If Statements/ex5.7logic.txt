@@ -1,0 +1,1 @@
+1)checking whether the user input is in the fav list

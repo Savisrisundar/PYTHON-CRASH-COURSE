@@ -1,0 +1,2 @@
+1)using for loop and 3rd argument of range 
+2)printing the odd nos

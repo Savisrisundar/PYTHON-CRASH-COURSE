@@ -1,0 +1,4 @@
+1)checking for ordinal nos
+used for loop 
+if-else
+iteration
